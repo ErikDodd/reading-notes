@@ -2,9 +2,9 @@
 
 _My name is Erik and I love Javascript_
 
-Talk about Growth Mindset
+Talk about **Growth Mindset**
 
-3 reminders for Growth Mindest
+3 reminders for **Growth Mindset**:
 
 * You may not know now, but you'll know it soon
 * Push the "I believe!" button
