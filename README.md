@@ -10,4 +10,4 @@ Talk about **Growth Mindset**
 * Push the "I believe!" button
 * Ask for help - no shame in getting help!
 
-Link to my Github Portoflio (https://github.com/emdodd27/)
+Link to my Github [Portoflio](https://github.com/emdodd27/).
