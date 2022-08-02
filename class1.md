@@ -1,6 +1,6 @@
-# Class 1 Reading Notes
+# Class 1 Reading Notes - Growth Mindset & Markdown
 
-## What is **Growth Mindset**?
+## ***What is Growth Mindset?***
 
 **Growth Mindset** is the idea that anything can be learned or achieved with increased **_practice, training, and method_**. It's the idea that your brain is like a muscle and that muscle can be increased. It's the opposite of fixed mindset which states that the intelligence you have is fixed and can't be changed. It's critical to learning a new skill where you will face many challenges and obstacles. 
 
@@ -24,7 +24,7 @@ Through this process you will increase your intelligence, confidence, and self-b
 3. Ask for help - work with colleagues, ask your Professor/Manager, don't be shy
 
 
-## What is **Markdown**?
+## ***What is Markdown?***
 
 **Markdown** is a simple way to write content for a website without worrying about HTML. Websites exist to publish content and Markdown allows you to focus on your content without having to worry about code. Markdown is used in GitHub, Slack, Reddit, and many other places. There is a good chance you have used Markdown and you didn't even know it!
 
@@ -32,7 +32,7 @@ Markdown allows you to provide style and structure to your web page in a simple,
 
 - Headings = Add number signs in front of a word or phrase. The number of number signs you use should correspond to the heading level.
 
-- Bold = **bold text** or _bold text_ - Add two asterisks or two underscores before and after a word or phrase
+- Bold = **bold text** - Add two asterisks or two underscores before and after a word or phrase
 
 - Italics = *cat’s meow* - add one asterisk or underscore before and after a word or phrase.
 
