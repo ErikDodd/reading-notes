@@ -1,6 +1,6 @@
 # This is my Reading Notes Repo
 
-_My name is Erik and I am Software Developer from Seattle, WA. I'm currently enrolled in CodeFellows Software Development Bootcamp. Fun facts: I hit a hole-in-one in golf, I traveled to Easter Island, and I have 9-month old son named Blaise. The best way to reach me is by email at emdodd27@gmail.com_
+_My name is Erik and I am Software Developer from Seattle, WA. I'm currently enrolled in CodeFellows Software Development Bootcamp. Fun facts: I've hit a hole-in-one in golf, I traveled to Easter Island, and I have 9-month old son named Blaise. The best way to reach me is by email at emdodd27@gmail.com_
 
 ## What is **Growth Mindset**?
 
@@ -9,7 +9,7 @@ _My name is Erik and I am Software Developer from Seattle, WA. I'm currently enr
 Growth Mindset means: 
 
 - believing in yourself 
-- trying new things, 
+- trying new things
 - making mistakes 
 - experiencing set backs but persisting  
 
