@@ -25,4 +25,6 @@ Through this process you will increase your intelligence, confidence, and self-b
 2. Push the "I believe!" button
 3. Ask for help - work with colleagues, ask your Professor/Manager, don't be shy
 
+[Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
+
 Link to my Github [Portoflio](https://github.com/emdodd27/).
