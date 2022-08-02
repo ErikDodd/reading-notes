@@ -27,4 +27,6 @@ Through this process you will increase your intelligence, confidence, and self-b
 
 [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
+[Easier way to Link to class 1 Notes](class1.md)
+
 Link to my Github [Portoflio](https://github.com/emdodd27/).
