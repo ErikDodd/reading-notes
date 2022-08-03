@@ -6,6 +6,6 @@ _My name is Erik and I am Software Developer from Seattle, WA. I'm currently enr
 
 [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
-[Easier way to Link to class 1 Notes](class1.md)
+[Link to class 2 Notes](https://erikdodd.github.io/reading-notes/class2)
 
 Link to my Github [Portoflio](https://github.com/emdodd27/).
