@@ -4,8 +4,13 @@ _My name is Erik and I am Software Developer from Seattle, WA. I'm currently enr
 
 ## Link to Class Reading Notes
 
-[Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
+1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
-[Link to class 2 Notes](https://erikdodd.github.io/reading-notes/class2)
+2. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/class2)
+
+3. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/class5)
+
+4. [Link to class 6 Notes](https://erikdodd.github.io/reading-notes/class6)
+
 
 Link to my Github [Portoflio](https://github.com/emdodd27/).
