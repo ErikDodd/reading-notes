@@ -1,6 +1,6 @@
-# Class 5 Reading Notes - HTML
+# Class 4 Reading Notes - HTML
 
-## ***What is a CSS***
+## ***What is a HTML***
 
 A **HTML** (Hypertext Markup Language) - is the code that is used to structure a web page and its content. It is the foundation of a website or the skeleton, metaphorically speaking.
 
