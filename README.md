@@ -8,9 +8,12 @@ _My name is Erik and I am Software Developer from Seattle, WA. I'm currently enr
 
 2. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/class2)
 
-3. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/class5)
+3. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/class3)
 
-4. [Link to class 6 Notes](https://erikdodd.github.io/reading-notes/class6)
+4. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/class4)
 
+5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/class5)
 
-Link to my Github [Portoflio](https://github.com/emdodd27/).
+6. [Link to class 6 Notes](https://erikdodd.github.io/reading-notes/class6)
+
+**Link to my Github [Portoflio](https://github.com/emdodd27/).**
