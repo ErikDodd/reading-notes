@@ -9,7 +9,7 @@ A **Text Editor** is downloadable Software that allows you to write and manage t
 3. Variety of Themes - allows you flexibility in choosing the background color, color of your text, and more.
 4. Mutiple Extensions Available for Download - The ability to download many useful extensions that help you code more efficiently and do more as you increase your Coding Skills.
 
-It's important to consider which Text Editor to use because they each have their own strengths and weaknesses. New Software Developers would be wise to refer to the list above when selecting a Text Editor to use. These features will save you time, energy, reduce errors and allow you to code more efficiently. 
+It's important to consider which Text Editor to use because they each have their own strengths and weaknesses. New Software Developers would be wise to refer to the list above when selecting a Text Editor to use. These features will save you time, energy, reduce errors and allow you to code more efficiently.
 
 There are a lot of different Text Editors Available. Here are some of the most popular ones listed below:
 
@@ -19,7 +19,6 @@ There are a lot of different Text Editors Available. Here are some of the most p
 - Atom (*Windows, Mac, Linux*)
 - Brackets (*Windows, Mac, Linux*)
 - Sublime Text
-
 
 ## ***Cheatsheet for Terminal Usage***
 
