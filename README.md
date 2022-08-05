@@ -16,4 +16,8 @@ _My name is Erik and I am Software Developer from Seattle, WA. I'm currently enr
 
 6. [Link to class 6 Notes](https://erikdodd.github.io/reading-notes/class6)
 
+7. [Link to class 7 Notes](https://erikdodd.github.io/reading-notes/class7)
+
+8. [Link to class 8 Notes](https://erikdodd.github.io/reading-notes/class8)
+
 **Link to my Github [Portoflio](https://github.com/emdodd27/).**
