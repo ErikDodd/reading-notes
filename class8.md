@@ -1,4 +1,4 @@
-# Class 8 Reading Notes - Programming in JavaScript
+# Class 8 Reading Notes - Operators and Loops in JavaScript
 
 ## ***More info on Javascript***
 
@@ -16,7 +16,7 @@ JavaScript has both binary and unary operators, and one special ternary oper
 **Assignment Operator** - assigns a value to its left operand based on the value of its right operand.
 x = f()
 
-**A for loop** - repeats until a specified condition evaluates to false. 
+**A for loop** - repeats until a specified condition evaluates to false.
 
 - for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
@@ -29,8 +29,8 @@ while (condition);
 
 **A while statement**  executes its statements as long as a specified condition evaluates to true.
 
-For some valuable resources related to the Javascript or to learn more, feel free to check out the websites listed below:
+For some valuable resources related to the Loops and Operators or to learn more, feel free to check out the websites listed below:
 
-1. [Javascript Functions - W3 Schools](https://www.w3schools.com/js/js_functions.asp)
+1. [Javascript Loops & Iterations - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
 
-2. [Javascript Operators - W3 Schools](https://www.w3schools.com/js/js_operators.asp)
+2. [Javascript Expressions & Operators - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
