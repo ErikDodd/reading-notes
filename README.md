@@ -1,14 +1,12 @@
 # CodeFellows - Software Development BootCamp - Reading Notes Repo
 
-_My name is **Erik Dodd** and I am **Software Developer** from Seattle, WA. I'm currently enrolled in CodeFellows Software Development Bootcamp. This is my Reading Notes Repo for all the different material covered in the course of my journey into the world of Software Development.
+My name is **Erik Dodd** and I am **Software Developer** from **Seattle, WA.** I'm currently enrolled in CodeFellows Software Development Bootcamp. This is my Reading Notes Repo for all the different material covered in the course of my journey into the world of Software Development.
 
 Fun facts: 
 
 - I've hit a hole-in-one in golf
 - I traveled to Easter Island
 - I have 9-month old son named Blaise 
-
-C8DD94B3-DA5B-41FE-90A7-35C2AB591C8A_1_105_c.jpeg
 
 **The best way to reach me is by email at _emdodd27@gmail.com_**
 
