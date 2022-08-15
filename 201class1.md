@@ -1,6 +1,6 @@
 # Code 201 - Class 1 - Reading Notes
 
-## How the Web Works, Website Design & Proess, and Javascript Basics
+## How the Web Works, Website Design & Process, and Javascript Basics
 
 **1. Compose a short poem describing how HTTP sends data between computer. **
 
@@ -40,7 +40,7 @@
 
 **4.What Elements does a “typical” website include?**
 
-- <head>, <body>, <footer>, <main>, <nav>, <article>, <section>, <div>, <p>
+- head, body, footer, main, nav, article, section, div, paragraph
 
 **5.How does metadata influence Search Engine Optimization?**
 
