@@ -39,7 +39,7 @@ Margin - is the outer most layer. It's also white space as well.
 
 **2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?**
 
-- Yes it is a valid array. You can access the values by using console.log(people)
+- Yes it is a valid array. You can access the values by using people [] and calling out the specific position of the value you want to access. The line position starts at 0, so be sure to consider that.
 
 **3.List five shorthand operators for assignment in javascript and describe what they do.**
 
@@ -51,7 +51,7 @@ Margin - is the outer most layer. It's also white space as well.
 
 **4.Read the code below and evaluate the last expression and explain what the result would be and why.**
 
-- Result would be 10. Not sure why it is 10 but I ran it in replit.com and that's what I got.
+- Result would be '10dog'. False gets changed to the value 0 because that's it's boolean equivalent. Then it adds 10 to the string of 'dog' to get '10dog'.
 
 **5.Describe a real world example of when a conditional statement should be used in a JavaScript program.**
 
