@@ -26,11 +26,11 @@
 
 **1.Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**
 
--Let's use text as an example. Foreground color would be the color of the font, while background color would be the color that is highlighted behind the font. Another example would be if you wrote notes in blue pen and highlighted them in yellow highlighter. The blue pen would be foreground color, and the yellow highlighter would be background color.
+- Let's use text as an example. Foreground color would be the color of the font, while background color would be the color that is highlighted behind the font. Another example would be if you wrote notes in blue pen and highlighted them in yellow highlighter. The blue pen would be foreground color, and the yellow highlighter would be background color.
 
 **2.Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
 
--I would want to figure out the base color of the website. Then find some other ways to incorporate color in the text like having heading tags be red or something similar. I would also color coordinate either the background color to the color of the headings. I would consider turning some of the elements into div tags and then adding some color to the borders as well.
+- I would want to figure out the base color of the website. Then find some other ways to incorporate color in the text like having heading tags be red or something similar. I would also color coordinate either the background color to the color of the headings. I would consider turning some of the elements into div tags and then adding some color to the borders as well.
 
 **3.What should you consider when choosing fonts for an HTML document?**
 
