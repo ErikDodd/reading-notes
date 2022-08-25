@@ -12,11 +12,11 @@
 
 **3. List 5 form elements and explain their importance.**
 
-**Form**: This is the main element that is required to make a form. It defines the form.
-**Label**: This is the element used to create the label for what the user inputs into that particular question. Like 'name' and the user inputs their name.
-**Input**: This is the element that creates the interactive controls for the form. It allows you to specify which type of input can be placed in a particular question like email or text, meaning one accepts only email and the other accepts only text.
-**Text Area**: It is an element that allows you to have users enter multi-line plain text into a question. This comes in handy for allowing the user to leave a comment or a review of something.
-**Button**: This element creates a button and allows the using to submit their data once the form is complete.
+- **Form**: This is the main element that is required to make a form. It defines the form.
+- **Label**: This is the element used to create the label for what the user inputs into that particular question. Like 'name' and the user inputs their name.
+- **Input**: This is the element that creates the interactive controls for the form. It allows you to specify which type of input can be placed in a particular question like email or text, meaning one accepts only email and the other accepts only text.
+- **Text Area**: It is an element that allows you to have users enter multi-line plain text into a question. This comes in handy for allowing the user to leave a comment or a review of something.
+- **Button**: This element creates a button and allows the using to submit their data once the form is complete.
 
 ## Learn JS - Events
 
