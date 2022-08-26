@@ -40,7 +40,7 @@ Fun facts:
 
 14. [Link to class 14 Notes](https://erikdodd.github.io/reading-notes/201class14)
 
-15. [Link to class 13 Notes](https://erikdodd.github.io/reading-notes/201class15)
+15. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/201class15)
 
 
 ## **Code 102** Class Reading Notes
