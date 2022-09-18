@@ -2,15 +2,27 @@
 
 My name is **Erik Dodd** and I am **Software Developer** from **Seattle, WA.** I'm currently enrolled in CodeFellows Software Development Bootcamp. This is my Reading Notes Repo for all the different material covered in the course of my journey into the world of Software Development.
 
-Fun facts: 
+Fun facts:
 
 - I've hit a hole-in-one in golf
 - I traveled to Easter Island
-- I have 9-month old son named Blaise 
+- I have a 9-month old son named Blaise
 
 **The best way to reach me is by email at _emdodd27@gmail.com_**
 
-## **Code 201** Class Reading Notes
+## **Code 301 - Intermediate Software Development** Class Reading Notes
+
+1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/301class1)
+
+2. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/301class2)
+
+3. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/301class3)
+
+4. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/301class4)
+
+5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/301class5)
+
+## **Code 201 - Foundations of Software Development ** Class Reading Notes
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/201class1)
 
@@ -43,7 +55,7 @@ Fun facts:
 15. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/201class15)
 
 
-## **Code 102** Class Reading Notes
+## **Code 102 - Intro to Software Development** Class Reading Notes
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
