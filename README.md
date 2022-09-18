@@ -10,7 +10,7 @@ Fun facts:
 
 **The best way to reach me is by email at _emdodd27@gmail.com_**
 
-## **Code 301 - Intermediate Software Development** Class Reading Notes
+## **Code 301 - Intermediate Software Development - Class Reading Notes**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/301class1)
 
@@ -22,7 +22,7 @@ Fun facts:
 
 5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/301class5)
 
-## **Code 201 - Foundations of Software Development ** Class Reading Notes
+## **Code 201 - Foundations of Software Development - Class Reading Notes**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/201class1)
 
@@ -55,7 +55,7 @@ Fun facts:
 15. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/201class15)
 
 
-## **Code 102 - Intro to Software Development** Class Reading Notes
+## **Code 102 - Intro to Software Development - Class Reading Notes**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
