@@ -1,4 +1,4 @@
-# Code 301 - Class 3 - Reading Notes
+# Code 301 - Class 4 - Reading Notes
 
 ## React Docs - Forms
 
