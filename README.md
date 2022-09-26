@@ -22,6 +22,16 @@ Fun facts:
 
 5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/301class5)
 
+6. [Link to class 6 Notes](https://erikdodd.github.io/reading-notes/301class6)
+
+7. [Link to class 7 Notes](https://erikdodd.github.io/reading-notes/301class7)
+
+8. [Link to class 8 Notes](https://erikdodd.github.io/reading-notes/301class8)
+
+9. [Link to class 9 Notes](https://erikdodd.github.io/reading-notes/301class9)
+
+10. [Link to class 10 Notes](https://erikdodd.github.io/reading-notes/301class10)
+
 ## **Code 201 - Foundations of Software Development - Class Reading Notes**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/201class1)
