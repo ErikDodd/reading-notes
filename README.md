@@ -5,12 +5,25 @@ My name is **Erik Dodd** and I am **Software Developer** from **Seattle, WA.** I
 Fun facts:
 
 - I've hit a hole-in-one in golf
-- I traveled to Easter Island
-- I have a 9-month old son named Blaise
+- I traveled to Easter Island, Macchu Pichu, Angkor Watt, and some other very cool travel destinations
+- I have a 1 year old son named Blaise
 
 **The best way to reach me is by email at _emdodd27@gmail.com_**
 
-## **Code 301 - Intermediate Software Development - Class Reading Notes**
+## **Code 401 - Advanced Software Development**
+
+1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
+
+2. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
+
+3. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/401class3)
+
+4. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/401class4)
+
+5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/401class5)
+
+
+## **Code 301 - Intermediate Software Development**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/301class1)
 
@@ -42,7 +55,7 @@ Fun facts:
 
 15. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/301class15)
 
-## **Code 201 - Foundations of Software Development - Class Reading Notes**
+## **Code 201 - Foundations of Software Development**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/201class1)
 
@@ -74,8 +87,7 @@ Fun facts:
 
 15. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/201class15)
 
-
-## **Code 102 - Intro to Software Development - Class Reading Notes**
+## **Code 102 - Intro to Software Development**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/class1)
 
