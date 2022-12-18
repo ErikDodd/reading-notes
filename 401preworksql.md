@@ -1,6 +1,5 @@
 # Code 401 - Pre-work - Intro to SQL
 
-
 ## What is SQL?
 
 - **SQL (Structured Query Language)**: A search language used to access information stored in a database. It allows you to query, manipulate, and transform data from a relational database.
@@ -101,3 +100,9 @@
 
     ALTER TABLE mytable
     RENAME TO new_table_name;
+
+[Lession 1](SQL/SQL1.png)
+
+## References
+
+1. [SQL Bolt](https://sqlbolt.com/)
