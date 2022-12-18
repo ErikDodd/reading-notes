@@ -12,16 +12,17 @@ Fun facts:
 
 ## **Code 401 - Advanced Software Development**
 
-1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
+1. [Link to Intro to SQL Notes](https://erikdodd.github.io/reading-notes/401preworksql)
 
-2. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
+2. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
 
-3. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/401class3)
+3. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
 
-4. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/401class4)
+4. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/401class3)
 
-5. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/401class5)
+5. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/401class4)
 
+6. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/401class5)
 
 ## **Code 301 - Intermediate Software Development**
 
