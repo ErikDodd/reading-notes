@@ -101,7 +101,31 @@
     ALTER TABLE mytable
     RENAME TO new_table_name;
 
+## Images of Completed SQL Bolt Lessions
+
 [Lession 1](SQL/SQL1.png)
+
+[Lession 2](SQL/SQL2.png)
+
+[Lession 3](SQL/SQL3.png)
+
+[Lession 4](SQL/SQL4.png)
+
+[Lession 5](SQL/SQL5.png)
+
+[Lession 6](SQL/SQL6.png)
+
+[Lession 13](SQL/SQL13.png)
+
+[Lession 14](SQL/SQL14.png)
+
+[Lession 15](SQL/SQL15.png)
+
+[Lession 16](SQL/SQL16.png)
+
+[Lession 17](SQL/SQL17.png)
+
+[Lession 18](SQL/SQL18.png)
 
 ## References
 
