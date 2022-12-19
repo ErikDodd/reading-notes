@@ -14,6 +14,8 @@ Fun facts:
 
 1. [Link to Intro to SQL Notes](https://erikdodd.github.io/reading-notes/401preworksql)
 
+2. [Link to Practice in the Terminal](https://erikdodd.github.io/reading-notes/401preworkterminal)
+
 2. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
 
 3. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
