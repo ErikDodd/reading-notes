@@ -18,7 +18,7 @@ Fun facts:
 
 3. [Link to Growth Mindset Prep](https://erikdodd.github.io/reading-notes/401preworkgrowth)
 
-4. [Link to Growth Mindset Prep](https://erikdodd.github.io/reading-notes/401preworkengineering)
+4. [Link to Engineering Reading](https://erikdodd.github.io/reading-notes/401preworkengineering)
 
 5. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
 
