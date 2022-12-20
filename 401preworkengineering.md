@@ -75,4 +75,4 @@
 
 4. [The 5 Whys](https://www.mindtools.com/a3mi00v/5-whys)
 
-5. [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0&ab_channel=TEDxTalks)
+5. [The Super Mario Effect - Tricking Your Brain into Learning More](https://www.youtube.com/watch?v=9vJRopau0g0&ab_channel=TEDxTalks)
