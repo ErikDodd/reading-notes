@@ -18,15 +18,17 @@ Fun facts:
 
 3. [Link to Growth Mindset Prep](https://erikdodd.github.io/reading-notes/401preworkgrowth)
 
-4. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
+4. [Link to Growth Mindset Prep](https://erikdodd.github.io/reading-notes/401preworkengineering)
 
-5. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
+5. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/401class1)
 
-6. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/401class3)
+6. [Link to class 2 Notes](https://erikdodd.github.io/reading-notes/401class2)
 
-7. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/401class4)
+7. [Link to class 3 Notes](https://erikdodd.github.io/reading-notes/401class3)
 
-8. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/401class5)
+8. [Link to class 4 Notes](https://erikdodd.github.io/reading-notes/401class4)
+
+9. [Link to class 5 Notes](https://erikdodd.github.io/reading-notes/401class5)
 
 ## **Code 301 - Intermediate Software Development**
 
