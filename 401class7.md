@@ -1,4 +1,4 @@
-# Code 401 - Class 6 - Reading Notes
+# Code 401 - Class 7 - Reading Notes
 
 ## Python Scope
 
