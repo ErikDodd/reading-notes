@@ -40,6 +40,14 @@ Fun facts:
 
 14. [Link to class 11 Notes](https://erikdodd.github.io/reading-notes/401class11)
 
+15. [Link to class 12 Notes](https://erikdodd.github.io/reading-notes/401class12)
+
+16. [Link to class 13 Notes](https://erikdodd.github.io/reading-notes/401class13)
+
+17. [Link to class 14 Notes](https://erikdodd.github.io/reading-notes/401class14) 
+
+18. [Link to class 15 Notes](https://erikdodd.github.io/reading-notes/401class15)
+
 ## **Code 301 - Intermediate Software Development**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/301class1)
