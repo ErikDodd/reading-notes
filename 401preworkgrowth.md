@@ -18,6 +18,12 @@ This topic is important because the concept of grit is critical to being success
 
 This topic is important because it has do with the idea of changing our views on success. It has do with the idea of burdens of being professional successfully, having nice material things, etc. It has do with the pressures that come with meritocracy and wanting to be successful and some of the pitfalls or unintended consequences associated with it. The topic discusses failure and the judgement and ridicule associated with failure.
 
+## Things I want to know more about
+
+- I'd like to learn some more tips on how to better foster a growth-mindset
+- I'd like to learn what are some helpful ways to build grit. Maybe it's as simple as being consistent/discipline with things you have to do.
+- I'd like to watch some other TED Videos or YouTube videos that talk more about redefining success
+
 ## References
 
 1. [Upgrade your technical skills with deliberate practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)

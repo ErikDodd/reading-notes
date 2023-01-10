@@ -10,6 +10,9 @@ Fun facts:
 
 **The best way to reach me is by email at _emdodd27@gmail.com_**
 
+Please feel free to view my GitHub Profile by visiting the link below:
+[My GitHub Profile](https://github.com/ErikDodd)
+
 ## **Code 401 - Advanced Software Development**
 
 1. [Link to Intro to SQL Notes](https://erikdodd.github.io/reading-notes/401preworksql)
