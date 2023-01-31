@@ -1,4 +1,4 @@
-# CodeFellows - Software Development BootCamp - Reading Notes Repo
+# Software Development- Reading Notes Repo
 
 My name is **Erik Dodd** and I am **Software Developer** from **Seattle, WA.** I'm currently enrolled in CodeFellows Software Development Bootcamp. This is my Reading Notes Repo for all the different material covered in the course of my journey into the world of Software Development.
 
@@ -70,6 +70,16 @@ Please feel free to view my GitHub Profile by visiting the link below:
 27. [Link to class 29 Notes](https://erikdodd.github.io/reading-notes/401class29)
 
 28. [Link to class 30 Notes](https://erikdodd.github.io/reading-notes/401class30)
+
+29. [Link to class 31 Notes](https://erikdodd.github.io/reading-notes/401class31)
+
+30. [Link to class 32 Notes](https://erikdodd.github.io/reading-notes/401class32)
+
+31. [Link to class 33 Notes](https://erikdodd.github.io/reading-notes/401class33)
+
+32. [Link to class 34 Notes](https://erikdodd.github.io/reading-notes/401class34)
+
+33. [Link to class 35 Notes](https://erikdodd.github.io/reading-notes/401class35)
 
 ## **Code 301 - Intermediate Software Development**
 
