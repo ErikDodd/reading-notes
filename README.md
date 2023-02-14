@@ -91,6 +91,14 @@ Please feel free to view my GitHub Profile by visiting the link below:
 
 38. [Link to class 40 Notes](https://erikdodd.github.io/reading-notes/401class40)
 
+39. [Link to class 41 Notes](https://erikdodd.github.io/reading-notes/401class41)
+
+40. [Link to class 42 Notes](https://erikdodd.github.io/reading-notes/401class42)
+
+41. [Link to class 43 Notes](https://erikdodd.github.io/reading-notes/401class43)
+
+42. [Link to class 44 Notes](https://erikdodd.github.io/reading-notes/401class44)
+
 ## **Code 301 - Intermediate Software Development**
 
 1. [Link to class 1 Notes](https://erikdodd.github.io/reading-notes/301class1)
