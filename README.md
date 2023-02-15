@@ -93,7 +93,9 @@ Please feel free to view my GitHub Profile by visiting the link below:
 
 39. [Link to class 41 Notes](https://erikdodd.github.io/reading-notes/401class41)
 
-40. [Link to class 42 Notes](https://erikdodd.github.io/reading-notes/401class42)
+40. [Link to class 42A Notes](https://erikdodd.github.io/reading-notes/401class42)
+
+41. [Link to class 42B Notes](https://erikdodd.github.io/reading-notes/401class42B)
 
 41. [Link to class 43 Notes](https://erikdodd.github.io/reading-notes/401class43)
 
