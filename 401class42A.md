@@ -1,4 +1,4 @@
-# Code 401 - Class 42Agst - Reading Notes
+# Code 401 - Class 42A - Reading Notes
 
 ## Dunder Methods:
 
